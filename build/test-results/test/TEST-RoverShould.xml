@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RoverShould" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-08-20T16:00:21" hostname="PORTADELL" time="0.033">
+  <properties/>
+  <testcase name="North oriented When receives the command &quot;M&quot; Then it moves forward()" classname="RoverShould" time="0.029"/>
+  <testcase name="knows its landing zone()" classname="RoverShould" time="0.001"/>
+  <testcase name="South oriented When receives the command &quot;M&quot; Then it moves forward()" classname="RoverShould" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
